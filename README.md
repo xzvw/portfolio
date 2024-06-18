@@ -31,27 +31,27 @@ Below are screenshots of some advanced UI designs that are not visible to all us
   - [Tablet](assets/cakeresume-company-member-permission-editing-modal-tablet.png)
   - [Mobile](assets/cakeresume-company-member-permission-editing-modal-mobile.png)
 - AI Cover Letter Generation Modal
-  - [1](assets/cakeresume-ai-cover-letter-generation-modal-1.png)
-  - [2](assets/cakeresume-ai-cover-letter-generation-modal-2.png)
+  - [Image 1](assets/cakeresume-ai-cover-letter-generation-modal-1.png)
+  - [Image 2](assets/cakeresume-ai-cover-letter-generation-modal-2.png)
 - [Manage Contact Persons for Job Post](assets/www.cakeresume.com_companies_pgranola_team.png)
 
 ## Featured Websites
 
 Below is a selection of websites that I have designed and implemented.
 
-Please note that most of these are personal side projects and may not include responsive web design or full functionalities.
+‼️ Please note that most of these are personal side projects and may not include responsive web design or full functionalities.
 
-These sites are intended primarily to showcase my web design capabilities; therefore, not all links may function as expected.
+‼️ These sites are intended primarily to showcase my web design capabilities; therefore, not all links may function as expected.
 
-### Personal Website
+### [Personal Website](https://portfolio-dont-hurry.vercel.app/)
 
 This site served as my previous personal website and has since been archived.
 
-### Chazel
+### [Chazel](http://eightdonuts.github.io/chazel/index.html.bak.html)
 
 This site was developed in collaboration with a writer friend to prominently feature his personal works.
 
-### 人間動物園 (博客來)
+### [人間動物園 (博客來)](https://www.books.com.tw/activity/2019/05/ZOO/)
 
 This site features an engaging personality test designed to promote a book.
 
