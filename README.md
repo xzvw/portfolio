@@ -16,7 +16,7 @@ Please explore the links below to view these pages on the live website.
 
 - [Home Page for Foreign Users](https://www.cakeresume.com/?locale=en&visitor&v=2)
 - [Company Page](https://www.cakeresume.com/companies/cakeresume?locale=en)
-  - The company page includes three distinct tabs: `About`, `Team` and `Jobs`.
+  - Note: The company page includes three distinct tabs: `About`, `Team` and `Jobs`.
 - [Resume Builder Introduction Page](https://www.cakeresume.com/resume-builder)
   - Note: To access this page, do not log in to CakeResume; logging in will redirect you to the user dashboard.
 - [Featured Resume Gallery](https://www.cakeresume.com/resumes?locale=en)
