@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EarBeats</title>
+    <link href="./styles/main.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="main-wrapper">
+        <div id="main">
+          <header>
+            <div id="brand"><img src="./img/logo.svg" />EarBeats</div>
+            <nav class="desktop-only flex">
+              <a href="#">Products</a>
+              <a href="#">Music</a>
+              <a href="#">Support</a>
+            </nav>
+          </header>
+
+          <div id="desktop-product-image-container" class="desktop-only"></div>
+          <div id="mobile-product-image-container" class="mobile-only">
+            <div class="next-product-button-wrapper">
+              <div class="next-product-button">→</div>
+            </div>
+            <div class="previous-product-button-wrapper">
+              <div class="previous-product-button">←</div>
+            </div>
+            <div id="product-image-row"></div>
+          </div>
+          <div id="indicator-container" class="mobile-only"></div>
+          <div id="product-info">
+            <div id="product-category">Category</div>
+            <div id="product-name">Name</div>
+            <div id="product-description">Description</div>
+            <div id="explore-product-button-container">
+              <a href="#" id="explore-product-button">Explore product</a>
+            </div>
+          </div>
+          <div id="attribution">
+            The logo icon is made by
+            <a href="https://www.freepik.com/" target="_blank">Freepik</a> from
+            <a href="https://www.flaticon.com/" target="_blank"
+              >www.flaticon.com</a
+            >
+          </div>
+          <div class="desktop-only">
+            <div class="next-product-button-wrapper">
+              <div class="next-product-button">→</div>
+            </div>
+            <div class="previous-product-button-wrapper">
+              <div class="previous-product-button">←</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./lib/anime.min.js"></script>
+    <script src="./scripts/main.js"></script>
+  </body>
+</html>
